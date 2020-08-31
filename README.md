@@ -3,9 +3,9 @@
 I'm San and spend most of my time infront of my computer. I'm love code although i'm get pain when I do.
 I'm love Swift Language and Javascript Language.
 
-Why [Swift](https://swift.org)? Because less comunnity in place I Live, LOL. 
+Why [Swift](https://swift.org)? Because less comunnity in my place :D. 
 
-Why [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)? Because have used in web browser LOL Again.
+Why [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)? Because have used in web browser :D.
 
 Blogger: [sanengineer.com](https://sanenginner.com)
 
