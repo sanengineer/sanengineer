@@ -1,15 +1,18 @@
-# Hi There 👋🏽
+# Hi There 👋🏽  
 
 I'm San and spend most of my time infront of my computer. I'm love code although i'm get pain when I do.
 I'm love Swift Language and Javascript Language.
 
-Why Swift? Because less comunnity in place I Live, LOL. 
-Why Javascript? Because have used in web browser LOL Again.
+Why [Swift](https://swift.org)? Because less comunnity in place I Live, LOL. 
 
-Blog: sanengineer.com
-Medium: @sanengineer
-Instagram: @sanengineer
+Why [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)? Because have used in web browser LOL Again.
 
-Reach me: hi@sanengineer.com
+Blogger: sanengineer.com
+
+Medium: [@sanengineer](https://medium.com/@sanengineer)
+
+Instagram: [@sanengineer](https://instagram.com/sanengineer)
+
+Reach me: [📬](hi@sanengineer.com)
 
 
