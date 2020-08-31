@@ -13,6 +13,6 @@ Medium: [@sanengineer](https://medium.com/@sanengineer)
 
 Instagram: [@sanengineer](https://instagram.com/sanengineer)
 
-Reach me: [📬](hi@sanengineer.com)
+Reach me: [📬](mailto:hi@sanengineer.com)
 
 
