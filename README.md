@@ -10,4 +10,4 @@ I'm love <a href="https://swift.org" rel="nofollow">Swift</a> Language and <a hr
 <li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png">🎧</g-emoji> All days listening to: <a href="https://open.spotify.com/playlist/44SGJhYZJJXCLPJt7TASeW?si=R6Y95qoqRsqaheoxIZ9stQ" rel="nofollow">LANY 🥀 x Lauv 🌈</a></li>
 </ul>
 
-### Reach me: [📬](mailto:hi@sanengineer.com)
+### Reach me: [📬]
