@@ -7,10 +7,7 @@ I'm love <a href="https://swift.org" rel="nofollow">Swift</a> Language and <a hr
 <ul>
 <li><g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🌏</g-emoji> I live in Java Island, Indonesia</li>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently find some jobs </li>
-<li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png">🎧</g-emoji> All days listening to: LANY 🥀 x Lauv 🌈</li>
+<li><g-emoji class="g-emoji" alias="headphones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png">🎧</g-emoji> All days listening to: <a href="https://open.spotify.com/playlist/44SGJhYZJJXCLPJt7TASeW?si=R6Y95qoqRsqaheoxIZ9stQ" rel="nofollow">LANY 🥀 x Lauv 🌈</a></li>
 </ul>
 
-
-
 ### Reach me: [📬](mailto:hi@sanengineer.com)
-
