@@ -8,6 +8,10 @@ style="background-image: linear-gradient(45deg, #BA00B4, #1D0AC9); background-re
 <li><g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🌏</g-emoji> I live in Java Island, Indonesia</li>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently find some jobs </li>
 
-### Donate: <a href="https://www.paypal.com/donate/?business=insinyurikhsan%40gmail.com&cmd=_donations&currency_code=USD&item_name=San++Engineer+-+Github&lc=US&return=%2F%40sanengineer&Z3JncnB0=" rel="nofollow">💵</a>
+### Donate:
+
+<a href="https://www.paypal.com/donate/?business=insinyurikhsan%40gmail.com&cmd=_donations&currency_code=USD&item_name=San++Engineer+-+Github&lc=US&return=%2F%40sanengineer&Z3JncnB0=" rel="nofollow">💵 Paypal</a>
+
+💰 Bitcoin : `1GtsEGeN5ciyGReXFx1jfSQcB24vBa11Cn`
 
 ### Reach Me: [📬](https://github.com/sanengineer/sanengineer/issues/new)
